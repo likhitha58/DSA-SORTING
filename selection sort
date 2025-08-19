@@ -1,4 +1,5 @@
 # Selecting minimum and swapping the next index 
+#tc: best,worst,avg o(n^2)
 #include<iostream>
 using namespace std;
 void selection_sort(int arr[], int n){
